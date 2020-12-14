@@ -1,0 +1,2 @@
+# CardioVascularDisease_Prediction
+This analysis uses a dataset categorizing patients with a cardiovascular disease (CVD) diagnosis. It contains a collection of 11 attributes that were gathered with the intention of trying to identify potential characteristics of individuals that correlate with heart disease. The primary goal of this analysis is to explore the data through statistical summaries and visualization to elucidate any trends that will be useful for building a prediction model for classifying a patient as having a CVD diagnosis or not
